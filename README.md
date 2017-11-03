@@ -12,7 +12,7 @@ if you want to install:
      cabal install
      
 
-This library exports the Multicodec module which come with the Multicodec type and four functions:
+This library exports the Multicodec module which comes with the Multicodec type and four functions:
 
      prefixByteString :: String -> ByteString -> Multicodec
      
@@ -22,6 +22,6 @@ This library exports the Multicodec module which come with the Multicodec type a
      
      getCodec :: Multicodec -> String
      
-More information about the format at [Multicodec] (https://github.com/multiformats/multicodec)
+More information about the format at [Multicodec](https://github.com/multiformats/multicodec)
      
      
