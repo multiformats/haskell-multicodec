@@ -1,3 +1,5 @@
+**This project is no longer maintained and has been archived.**
+
 # haskell-multicodec
 An implementation of the multicodec specification in haskell.
 
